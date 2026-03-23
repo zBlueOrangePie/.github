@@ -28,5 +28,5 @@
 **•** I'm currently busy building **[TicketByte](https://ticketbyte.bot.nu)** a Discord ticket bot with a web dashboard, analytics, and also a open source project, you're free to check it out
 
 <p align="center">
-  <img src="assets/img/ticketbyte.jpeg" alt="currently developing" width="500">
+  <img src="https://cdn.discordapp.com/avatars/1480581826681766019/90f85faa5ed5c4796c85b2ace8be3281.png?size=1024" alt="currently developing" width="500">
 </p>
