@@ -1,6 +1,6 @@
 # 👋 Hiii everyone, zBlueOrangePie is here!!
 
-**•** I'm a **Full Stack Developer** who loves building tools for online communities. My main go to system is the **Node.js**.
+**•** I'm a **Full Stack Developer** who loves building discord bots for discord users. My main go to system is the **Node.js**.
 
 **•** I'm not that great when it comes to building website frontends but im great **website backend creation.**
 
