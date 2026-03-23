@@ -1,4 +1,4 @@
-# 👋 Hiii everyone!, I am zBlueOrangePie.
+# 👋 Hiii everyone, zBlueOrangePie is here!!
 
 **•** I'm a **Full Stack Developer** who loves building tools for online communities. My main go to system is the **Node.js**.
 
