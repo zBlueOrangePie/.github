@@ -21,8 +21,11 @@
 **•** I mostly study or watch youtube vids when not coding, and when i am coding, im busy building my current and latest project, **TicketByte.**
 
 ### 🤯 First and latest project (For Discord Bots)
-**1st Project:** __[Kiwi-Bot](https://github.com/zBlueOrangePie/Kiwi-Source-Code)__
-**Latest Project:** __[TicketByte](https://ticketbyte.bot.nu/)__
+- **1st Project:** __[Kiwi-Bot](https://github.com/zBlueOrangePie/Kiwi-Source-Code)__
+
+- **2nd Project:** __[Dreama Music Bot](https://github.com/zBlueOrangePie/Dreama-Discord-MusicBot)__
+
+- **Latest Project:** __[TicketByte](https://ticketbyte.bot.nu/)__
 
 ### 🔭 Current Project
 **•** I'm currently busy building **[TicketByte](https://ticketbyte.bot.nu)** a Discord ticket bot with a web dashboard, analytics, and also a open source project, you're free to check it out
