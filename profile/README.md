@@ -2,7 +2,7 @@
 
 **•** I'm a **Full Stack Developer** who loves building discord bots for discord users. My main go to system is the **Node.js**.
 
-**•** I'm not that great when it comes to building website frontends but im great **website backend creation.**
+
 
 ### 🛠️ Technologies & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -18,18 +18,11 @@
 ![Env](https://img.shields.io/badge/env-1GEF59?style=for-the-badge&logo=env&logoColor=white)
 
 # ❔ What i do when im not busy?
-**•** I mostly study or watch youtube vids when not coding, and when i am coding, im busy building my current and latest project, **TicketByte.**
-
-### 🤯 First and latest project (For Discord Bots)
-- **1st Project:** __[Kiwi-Bot](https://github.com/zBlueOrangePie/Kiwi-Source-Code)__
-
-- **2nd Project:** __[Dreama Music Bot](https://github.com/zBlueOrangePie/Dreama-Discord-MusicBot)__
-
-- **Latest Project:** __[TicketByte](https://ticketbyte.bot.nu/)__
+**•** I mostly study or watch youtube vids when not coding, and when i am coding, im busy building my current and latest project, **Dreama.**
 
 ### 🔭 Current Project
-**•** I'm currently busy building **[TicketByte](https://ticketbyte.bot.nu)** a Discord ticket bot with a web dashboard, analytics, and also a open source project, you're free to check it out
+**•** I'm currently busy building **[Dreama](https://github.com/zBlueOrangePie/Dreama-Discord-MusicBot)** a Discord music bot that is open-source that you can **host** and **modify** it yourself!
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/avatars/1480581826681766019/90f85faa5ed5c4796c85b2ace8be3281.png?size=1024" alt="currently developing" width="500">
+  <img src="https://cdn.discordapp.com/avatars/1477557922786447411/ec933df54fd5ea300fde41ae88e7f04a.webp?size=1024" alt="currently developing" width="500">
 </p>
