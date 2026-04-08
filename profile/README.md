@@ -1,6 +1,6 @@
 # 👋 Hiii everyone, zBlueOrangePie is here!!
 
-**•** I'm a **Full Stack Developer** who loves building discord bots for discord users. My main go to system is the **Node.js**.
+- I'm a **Full Stack Developer** who loves building discord bots for discord users. My main go to system is the **Node.js**.
 
 
 
@@ -17,12 +17,12 @@
 ![Nodemon](https://img.shields.io/badge/nodemon-FFFFF?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Env](https://img.shields.io/badge/env-1GEF59?style=for-the-badge&logo=env&logoColor=white)
 
-# ❔ What i do when im not busy?
-**•** I mostly study or watch youtube vids when not coding, and when i am coding, im busy building my current and latest project, **Dreama.**
+### ❔ What i do when im not busy?
+- I mostly study or watch youtube vids when not coding, and when i am coding, im busy building my current and latest project, **Dreama.**
 
 ### 🔭 Current Project
-**•** I'm currently busy building **[Dreama](https://github.com/zBlueOrangePie/Dreama-Discord-MusicBot)** a Discord music bot that is open-source that you can **host** and **modify** it yourself!
+- I'm currently busy building **[Dreama](https://github.com/zBlueOrangePie/Dreama-Discord-MusicBot)** a Discord music bot that is open-source that you can **host** and **modify** it yourself!
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/avatars/1477557922786447411/ec933df54fd5ea300fde41ae88e7f04a.webp?size=1024" alt="currently developing" width="500">
+  <img src="https://cdn.discordapp.com/avatars/1477557922786447411/dc170fbbccaaec703ed06f83994dc892.webp?size=256" alt="currently developing" width="117">
 </p>
